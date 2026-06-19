@@ -31,3 +31,11 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# LaTeX CV files
+op1.tex
+op1.pdf
+op1.aux
+op1.log
+op1.out
+op1.synctex.gz
